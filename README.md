@@ -1,5 +1,11 @@
 # Dialog Axiata PLC — Financial Due Diligence Analysis
- 
+ ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![R](https://img.shields.io/badge/R-4.4-276DC3?logo=r)
+![Excel](https://img.shields.io/badge/Excel-Financial_Model-217346?logo=microsoftexcel)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-Report-B7472A?logo=microsoftpowerpoint)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Data](https://img.shields.io/badge/Data-PDF_Verified-gold)
+
 **Tools:** Excel · Python · R · PowerPoint  
 
 **Note:** All competitor data automated via Python — 
@@ -45,7 +51,18 @@ identifiable margin improvement pathway. Entry recommended contingent
 on macro stability and post-2024 revenue recovery confirmation.
 
 ---
+## Charts
 
+<p align="center">
+  <img src="charts/chart1_revenue_ebitda_trend.png" width="48%"/>
+<img src="charts/chart2_margin_analysis.png" width="48%"/>
+</p>
+<p align="center">
+  <img src="charts/chart3_competitor_ebitda.png" width="48%"/>
+<img src="charts/chart4_regression.png" width="48%"/>
+</p>
+
+---
 ## Key Findings
 
 **Finding 1 — Dialog is undervalued**  
@@ -83,13 +100,20 @@ FX conversion using 2024 average rates (World Bank / XE.com).
 
 | File | Description |
 |---|---|
-| Dialog_Axiata_Financial_Model.xlsx | Full Excel financial model |
-| competitor_analysis.py | Python competitor benchmarking script |
-| dialog_charts.R | R script — 4 ggplot2 charts |
-| competitor_benchmarking.xlsx | Peer comparison output |
-| Dialog_Axiata_Due_Diligence_Report.pptx | 10-slide consulting report |
-| chart1_revenue_ebitda_trend.png | Revenue & EBITDA trend 2020-2024 |
-| chart2_margin_analysis.png | Gross / EBITDA / Net margin analysis |
-| chart3_competitor_ebitda.png | Dialog vs regional peer EBITDA margins |
-| chart4_regression.png | Regression — Does debt drive revenue? |
+| `competitor_analysis.py` | Python competitor benchmarking script |
+| `dialog_charts.R` | R script — 4 ggplot2 charts |
+| `model/Dialog_Axiata_Financial_Model.xlsx` | Full Excel financial model |
+| `data/competitor_benchmarking.xlsx` | Peer comparison output |
+| `report/Dialog_Axiata_Due_Diligence_Report.pptx` | 10-slide consulting report |
+| `charts/chart1_revenue_ebitda_trend.png` | Revenue & EBITDA trend 2020-2024 |
+| `charts/chart2_margin_analysis.png` | Gross / EBITDA / Net margin analysis |
+| `charts/chart3_competitor_ebitda.png` | Dialog vs regional peer EBITDA margins |
+| `charts/chart4_regression.png` | Regression — Does debt drive revenue? |
+
+
+## Author
+**Kavindi Gamage**  
+[LinkedIn](https://www.linkedin.com/in/kavindi-gamage-815049386)
+
+*Built April 2025 · All data PDF-verified from official annual reports*
 
