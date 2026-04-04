@@ -117,3 +117,8 @@ FX conversion using 2024 average rates (World Bank / XE.com).
 
 *Built April 2025 · All data PDF-verified from official annual reports*
 
+
+
+## License
+© 2025 Kavindi Gamage. All rights reserved.
+This project is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — viewing only. No reuse, reproduction, or derivative works permitted without explicit written permission.
